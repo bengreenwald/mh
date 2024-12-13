@@ -2,7 +2,7 @@
 #### RESEARCH QUESTIONS ####
 ############################
 
-# ---- load package ---- 
+# ---- load packages ---- 
 pacman::p_load(
   here, # project management
   tidyverse, # data wrangling
@@ -204,10 +204,12 @@ first_day %>%
     .groups = "drop"
   ) %>% 
   count(
-    ((coach_visit > 0 & therapy_visit > 0) |
+    (
+      (coach_visit > 0 & therapy_visit > 0) |
       (coach_visit > 0 & digital_visit > 0) |
-      (therapy_visit > 0 & digital_visit > 0)),
-        name = "member_count") %>% 
+      (therapy_visit > 0 & digital_visit > 0)
+    ),
+    name = "member_count") %>% 
   mutate(perc = member_count / sum(member_count))
 
 # how many members eventually completed each care type at least once?
@@ -220,8 +222,8 @@ first_day %>%
     digital_visit = sum(digital[digital == TRUE]),
     .groups = "drop"
   ) %>% 
-  count(coach_visit > 0 & 
-          therapy_visit > 0 & 
-          digital_visit > 0,
-        name = "member_count") %>% 
+  count(
+    coach_visit > 0 & therapy_visit > 0 & digital_visit > 0,
+    name = "member_count"
+  ) %>% 
   mutate(perc = member_count / sum(member_count))
