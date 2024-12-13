@@ -30,28 +30,28 @@ member <- read_csv(here("data", "mh_member.csv")) %>%
 activity <- read_csv(here("data", "mh_activity.csv")) %>% 
   # convert activity date from string --> date
   mutate(activity_date = mdy(date)) %>%
-  # filter out rows where all three visit types are FALSE
+  # filter out rows where all three visit types are FALSE (unclear what that means)
   filter(!(coach_visit == FALSE & therapy_visit == FALSE & digital == FALSE)) %>% 
   select(-date)
 
 pre_assessment <- read_csv(here("data", "mh_pre_assessment.csv")) %>% 
   # rename columns to identify pre-assessment data when joining with post
   rename_with(~paste0("pre_", .x), everything()) %>% 
-  # convert activity date from string --> date
+  # convert pre-assessment date from string --> date
   mutate(pre_date = mdy(pre_date)) 
 
 post_assessment <- read_csv(here("data", "mh_post_assessment.csv")) %>% 
   # rename columns to identify post-assessment data when joining with pre
   rename_with(~paste0("post_", .x), everything()) %>% 
-  # convert activity date from string --> date
+  # convert post-assessment date from string --> date
   mutate(post_date = mdy(post_date)) 
 
-# ---- join member and assessement data ----
+# ---- join member and assessment data ----
 mh_data <- member %>% 
   # join all data together
   left_join(., pre_assessment, by = c("id" = "pre_member_id")) %>% 
   left_join(., post_assessment, by = c("id" = "post_member_id")) %>% 
-  # change in scores between pre and post assessments
+  # calculate change in scores between pre and post assessments
   mutate(
     change_dts_total = post_dts_total - pre_dts_total,
     change_phq9_total = post_phq9_total - pre_phq9_total
@@ -76,6 +76,7 @@ member_care_agg <- activity %>%
 # join care aggregates to member data for full data
 mh_1 <- mh_data %>% 
   left_join(., member_care_agg, by = c("id" = "member_id")) %>% 
+  # replace members with NA activity counts with 0
   mutate(across(contains("visit"), ~replace_na(., 0))) %>% 
   select(
     id,
@@ -119,10 +120,6 @@ t_2 <- t.test(formula_2, data = mh_2)
 q2_results <- t_2 %>% tidy_results()
 q2_results
 
-mh_2 %>% 
-  group_by(recovered) %>% 
-  summarise(mean(change_dts_total))
-
 # save results
 results_csv(q2_results)
 
@@ -130,7 +127,7 @@ results_csv(q2_results)
 # What are the associations between the demographic variables 
 # presented and improvement in depression scores?
 
-# anova formula & run 4-way anova including demographic variables
+# anova formula & run 4-way anova with demographic variables
 formula_3 <- as.formula("change_phq9_total ~ age_grouped + gender + education + race")
 anova_3 <- aov(formula_3, data = mh_data)
 
@@ -151,16 +148,12 @@ q3_posthoc <- TukeyHSD(anova_3, c("education", "race")) %>%
   )
 
 # calculate group means
-q3_means_age_grouped <- group_means(var = age_grouped)
-q3_means_gender <- group_means(var = gender)
 q3_means_education <- group_means(var = education)
 q3_means_race <- group_means(var = race)
 
 # save results
 results_csv(q3_results)
 results_csv(q3_posthoc)
-results_csv(q3_means_age_grouped)
-results_csv(q3_means_gender)
 results_csv(q3_means_education)
 results_csv(q3_means_race)
 
@@ -182,6 +175,7 @@ first_day <- activity %>%
   mutate(first_date = min(activity_date)) %>% 
   ungroup() %>% 
   mutate(on_first_day = if_else(activity_date == first_date, TRUE, FALSE)) 
+
 first_day %>% 
   group_by(on_first_day) %>%
   summarise(
