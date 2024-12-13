@@ -1,0 +1,10 @@
+term,contrast,adj.p.value
+education,Less than Bachelors degree-Bachelors degree,0.0068555
+race,Selected more than 1 race-American Indian or Alaskan Native,0.00541104
+race,Selected more than 1 race-Asian,0.0000573702
+race,Selected more than 1 race-Black or African-American,0.0125245
+race,"Selected more than 1 race-Hispanic, Latino or Spanish origin",0.0030685
+race,"White, not Hispanic or Latino-American Indian or Alaskan Native",0.000660155
+race,"White, not Hispanic or Latino-Asian",0.0000000000128924
+race,"White, not Hispanic or Latino-Black or African-American",0.0000132118
+race,"White, not Hispanic or Latino-Hispanic, Latino or Spanish origin",0.0000000745702

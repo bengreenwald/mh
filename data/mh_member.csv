@@ -1,0 +1,2000 @@
+"id","age","race","gender","education"
+1.0,46.0,"Asian","Male","Bachelors degree"
+2.0,40.0,"Asian","Male","Bachelors degree"
+3.0,70.0,"Asian","Male","Bachelors degree"
+4.0,74.0,"Asian","Male","Bachelors degree"
+5.0,39.0,"Asian","Male","Bachelors degree"
+6.0,61.0,"Asian","Male","Less than Bachelors degree"
+7.0,89.0,"Asian","Female","Bachelors degree"
+8.0,79.0,"Asian","Female","Less than Bachelors degree"
+9.0,70.0,"Asian","Female","Less than Bachelors degree"
+10.0,61.0,"Asian","Female","Less than Bachelors degree"
+11.0,36.0,"Asian","Female","Less than Bachelors degree"
+12.0,43.0,"Asian","Female","Less than Bachelors degree"
+13.0,35.0,"American Indian or Alaskan Native","Female","Less than Bachelors degree"
+14.0,60.0,"American Indian or Alaskan Native","Female","More than Bachelors degree"
+15.0,78.0,"American Indian or Alaskan Native","Female","Less than Bachelors degree"
+16.0,66.0,"American Indian or Alaskan Native","Female","Bachelors degree"
+17.0,90.0,"American Indian or Alaskan Native","Female","Bachelors degree"
+18.0,43.0,"American Indian or Alaskan Native","Female","Bachelors degree"
+19.0,67.0,"American Indian or Alaskan Native","Nonbinary","Bachelors degree"
+20.0,90.0,"American Indian or Alaskan Native","Unspecified","Bachelors degree"
+21.0,58.0,"American Indian or Alaskan Native","Male","Bachelors degree"
+22.0,50.0,"American Indian or Alaskan Native","Male","Bachelors degree"
+23.0,34.0,"American Indian or Alaskan Native","Male","Bachelors degree"
+24.0,58.0,"Asian","Male","Less than Bachelors degree"
+25.0,22.0,"Asian","Male","Less than Bachelors degree"
+26.0,70.0,"Asian","Male","Less than Bachelors degree"
+27.0,52.0,"Asian","Male","Less than Bachelors degree"
+28.0,75.0,"Asian","Male","Less than Bachelors degree"
+29.0,29.0,"Asian","Nonbinary","More than Bachelors degree"
+30.0,52.0,"Asian","Unspecified","Bachelors degree"
+31.0,62.0,"Asian","Male","Bachelors degree"
+32.0,46.0,"Asian","Female","Bachelors degree"
+33.0,71.0,"Asian","Female","Bachelors degree"
+34.0,46.0,"Asian","Female","Bachelors degree"
+35.0,54.0,"Asian","Female","Bachelors degree"
+36.0,62.0,"Asian","Female","Bachelors degree"
+37.0,30.0,"Asian","Female","Bachelors degree"
+38.0,36.0,"Asian","Female","Bachelors degree"
+39.0,22.0,"Asian","Female","Bachelors degree"
+40.0,61.0,"Asian","Female","Bachelors degree"
+41.0,72.0,"Asian","Female","Bachelors degree"
+42.0,57.0,"Asian","Female","Bachelors degree"
+43.0,40.0,"Asian","Female","Less than Bachelors degree"
+44.0,67.0,"Asian","Female","More than Bachelors degree"
+45.0,43.0,"Asian","Male","More than Bachelors degree"
+46.0,44.0,"Asian","Female","More than Bachelors degree"
+47.0,59.0,"Asian","Male","More than Bachelors degree"
+48.0,59.0,"Asian","Female","More than Bachelors degree"
+49.0,62.0,"Asian","Male","More than Bachelors degree"
+50.0,72.0,"Asian","Female","More than Bachelors degree"
+51.0,57.0,"Asian","Male","More than Bachelors degree"
+52.0,44.0,"Asian","Female","More than Bachelors degree"
+53.0,60.0,"Asian","Male","More than Bachelors degree"
+54.0,65.0,"Asian","Female","More than Bachelors degree"
+55.0,69.0,"Asian","Male","More than Bachelors degree"
+56.0,43.0,"Asian","Female","More than Bachelors degree"
+57.0,22.0,"Asian","Male","More than Bachelors degree"
+58.0,39.0,"Asian","Female","More than Bachelors degree"
+59.0,38.0,"Asian","Male","More than Bachelors degree"
+60.0,43.0,"Asian","Female","More than Bachelors degree"
+61.0,35.0,"Asian","Male","More than Bachelors degree"
+62.0,47.0,"Asian","Female","More than Bachelors degree"
+63.0,36.0,"Asian","Male","More than Bachelors degree"
+64.0,27.0,"Asian","Female","More than Bachelors degree"
+65.0,56.0,"Asian","Male","More than Bachelors degree"
+66.0,32.0,"Asian","Female","More than Bachelors degree"
+67.0,27.0,"Asian","Male","More than Bachelors degree"
+68.0,53.0,"Asian","Female","More than Bachelors degree"
+69.0,25.0,"Asian","Male","More than Bachelors degree"
+70.0,34.0,"Asian","Female","More than Bachelors degree"
+71.0,27.0,"Asian","Male","More than Bachelors degree"
+72.0,42.0,"Asian","Female","Bachelors degree"
+73.0,51.0,"Asian","Male","Bachelors degree"
+74.0,51.0,"Asian","Female","Bachelors degree"
+75.0,42.0,"Asian","Male","Bachelors degree"
+76.0,71.0,"Asian","Female","Bachelors degree"
+77.0,27.0,"Asian","Male","Bachelors degree"
+78.0,51.0,"Asian","Female","Bachelors degree"
+79.0,54.0,"Asian","Male","Bachelors degree"
+80.0,49.0,"Asian","Female","Bachelors degree"
+81.0,61.0,"Asian","Male","Bachelors degree"
+82.0,51.0,"Asian","Female","Bachelors degree"
+83.0,24.0,"Asian","Male","Bachelors degree"
+84.0,62.0,"Asian","Female","Bachelors degree"
+85.0,69.0,"Asian","Male","Bachelors degree"
+86.0,49.0,"Asian","Female","Bachelors degree"
+87.0,49.0,"Asian","Male","Bachelors degree"
+88.0,36.0,"Asian","Female","Bachelors degree"
+89.0,46.0,"Asian","Male","Bachelors degree"
+90.0,32.0,"Asian","Female","Bachelors degree"
+91.0,70.0,"Asian","Male","Bachelors degree"
+92.0,30.0,"Asian","Female","Bachelors degree"
+93.0,22.0,"Asian","Male","Bachelors degree"
+94.0,51.0,"Asian","Female","Bachelors degree"
+95.0,65.0,"Asian","Male","Bachelors degree"
+96.0,38.0,"Asian","Female","Bachelors degree"
+97.0,69.0,"Asian","Male","Bachelors degree"
+98.0,60.0,"Asian","Female","Bachelors degree"
+99.0,68.0,"Asian","Male","Bachelors degree"
+100.0,66.0,"Asian","Female","Bachelors degree"
+101.0,40.0,"Asian","Male","Bachelors degree"
+102.0,56.0,"Asian","Female","Bachelors degree"
+103.0,33.0,"Asian","Male","Bachelors degree"
+104.0,68.0,"Asian","Female","Bachelors degree"
+105.0,22.0,"Asian","Male","Bachelors degree"
+106.0,65.0,"Asian","Female","Bachelors degree"
+107.0,27.0,"Asian","Male","Bachelors degree"
+108.0,47.0,"Asian","Female","Bachelors degree"
+109.0,36.0,"Asian","Male","Bachelors degree"
+110.0,24.0,"Asian","Female","Bachelors degree"
+111.0,54.0,"Asian","Male","Bachelors degree"
+112.0,53.0,"Asian","Female","Bachelors degree"
+113.0,62.0,"Asian","Male","Bachelors degree"
+114.0,72.0,"Asian","Female","Bachelors degree"
+115.0,43.0,"Asian","Male","Bachelors degree"
+116.0,60.0,"Asian","Female","Bachelors degree"
+117.0,48.0,"Asian","Male","Bachelors degree"
+118.0,50.0,"Asian","Female","Bachelors degree"
+119.0,30.0,"Asian","Male","Bachelors degree"
+120.0,29.0,"Asian","Female","Bachelors degree"
+121.0,41.0,"Asian","Male","Bachelors degree"
+122.0,45.0,"Asian","Female","Bachelors degree"
+123.0,40.0,"Asian","Male","Bachelors degree"
+124.0,25.0,"Asian","Female","More than Bachelors degree"
+125.0,38.0,"Asian","Male","Bachelors degree"
+126.0,33.0,"Asian","Female","Bachelors degree"
+127.0,65.0,"Asian","Male","Bachelors degree"
+128.0,45.0,"Asian","Female","Bachelors degree"
+129.0,43.0,"Asian","Male","Bachelors degree"
+130.0,47.0,"Asian","Female","More than Bachelors degree"
+131.0,42.0,"Asian","Male","Bachelors degree"
+132.0,71.0,"Asian","Female","More than Bachelors degree"
+133.0,70.0,"Asian","Male","Bachelors degree"
+134.0,60.0,"Asian","Female","Bachelors degree"
+135.0,29.0,"Asian","Male","Bachelors degree"
+136.0,66.0,"Asian","Female","Bachelors degree"
+137.0,38.0,"Asian","Male","Bachelors degree"
+138.0,36.0,"Asian","Female","Bachelors degree"
+139.0,72.0,"Asian","Male","Bachelors degree"
+140.0,66.0,"Asian","Female","Bachelors degree"
+141.0,68.0,"Asian","Male","Bachelors degree"
+142.0,69.0,"Asian","Female","Bachelors degree"
+143.0,54.0,"Asian","Male","Bachelors degree"
+144.0,71.0,"Asian","Female","Bachelors degree"
+145.0,32.0,"Asian","Male","Bachelors degree"
+146.0,39.0,"Asian","Female","Bachelors degree"
+147.0,44.0,"Asian","Male","Bachelors degree"
+148.0,33.0,"Asian","Female","Bachelors degree"
+149.0,55.0,"Asian","Male","Bachelors degree"
+150.0,31.0,"Asian","Female","Bachelors degree"
+151.0,44.0,"Asian","Male","Bachelors degree"
+152.0,26.0,"Asian","Female","Bachelors degree"
+153.0,65.0,"Asian","Male","Bachelors degree"
+154.0,31.0,"Asian","Female","Bachelors degree"
+155.0,54.0,"Asian","Male","Bachelors degree"
+156.0,30.0,"Asian","Female","Bachelors degree"
+157.0,56.0,"Asian","Male","Bachelors degree"
+158.0,61.0,"Asian","Female","Bachelors degree"
+159.0,24.0,"Asian","Male","Bachelors degree"
+160.0,30.0,"Asian","Female","Bachelors degree"
+161.0,41.0,"Asian","Male","Bachelors degree"
+162.0,35.0,"Asian","Female","Bachelors degree"
+163.0,25.0,"Asian","Male","Bachelors degree"
+164.0,28.0,"Asian","Female","Bachelors degree"
+165.0,42.0,"Asian","Male","Bachelors degree"
+166.0,44.0,"Asian","Female","Bachelors degree"
+167.0,46.0,"Asian","Male","Bachelors degree"
+168.0,72.0,"Asian","Female","Bachelors degree"
+169.0,31.0,"Asian","Male","Bachelors degree"
+170.0,53.0,"Asian","Female","Bachelors degree"
+171.0,58.0,"Asian","Male","Bachelors degree"
+172.0,33.0,"Asian","Female","Bachelors degree"
+173.0,70.0,"Asian","Male","Bachelors degree"
+174.0,33.0,"Asian","Female","Bachelors degree"
+175.0,40.0,"Asian","Male","Bachelors degree"
+176.0,22.0,"Asian","Female","Bachelors degree"
+177.0,59.0,"Asian","Male","Bachelors degree"
+178.0,70.0,"Asian","Female","Bachelors degree"
+179.0,68.0,"Asian","Male","Bachelors degree"
+180.0,63.0,"Asian","Female","Bachelors degree"
+181.0,69.0,"Asian","Male","Bachelors degree"
+182.0,32.0,"Asian","Female","Bachelors degree"
+183.0,25.0,"Asian","Male","Bachelors degree"
+184.0,51.0,"Asian","Female","Bachelors degree"
+185.0,69.0,"Asian","Male","Bachelors degree"
+186.0,64.0,"Asian","Female","Bachelors degree"
+187.0,71.0,"Asian","Male","Bachelors degree"
+188.0,37.0,"Asian","Female","Bachelors degree"
+189.0,63.0,"Asian","Male","Bachelors degree"
+190.0,71.0,"Asian","Female","Bachelors degree"
+191.0,25.0,"Asian","Male","Bachelors degree"
+192.0,72.0,"Asian","Female","Bachelors degree"
+193.0,26.0,"Asian","Male","Bachelors degree"
+194.0,33.0,"Asian","Female","Bachelors degree"
+195.0,41.0,"Asian","Male","Bachelors degree"
+196.0,54.0,"Asian","Female","Bachelors degree"
+197.0,41.0,"Asian","Male","Bachelors degree"
+198.0,35.0,"Asian","Female","Bachelors degree"
+199.0,70.0,"Asian","Male","Bachelors degree"
+200.0,68.0,"Asian","Female","Bachelors degree"
+201.0,33.0,"Asian","Male","Bachelors degree"
+202.0,57.0,"Asian","Female","Bachelors degree"
+203.0,63.0,"Asian","Male","Bachelors degree"
+204.0,71.0,"Asian","Female","Bachelors degree"
+205.0,52.0,"Asian","Male","Bachelors degree"
+206.0,29.0,"Asian","Female","Bachelors degree"
+207.0,36.0,"Asian","Male","Bachelors degree"
+208.0,65.0,"Asian","Female","Bachelors degree"
+209.0,57.0,"Asian","Male","Bachelors degree"
+210.0,63.0,"Asian","Female","Bachelors degree"
+211.0,35.0,"Asian","Male","Bachelors degree"
+212.0,63.0,"Asian","Female","Bachelors degree"
+213.0,49.0,"Asian","Male","Bachelors degree"
+214.0,48.0,"Asian","Female","Bachelors degree"
+215.0,58.0,"Asian","Male","Bachelors degree"
+216.0,71.0,"Asian","Female","Bachelors degree"
+217.0,44.0,"Asian","Male","Bachelors degree"
+218.0,69.0,"Asian","Female","Bachelors degree"
+219.0,69.0,"Asian","Male","Bachelors degree"
+220.0,45.0,"Asian","Female","Bachelors degree"
+221.0,48.0,"Asian","Male","Bachelors degree"
+222.0,67.0,"Asian","Female","Bachelors degree"
+223.0,26.0,"Asian","Male","Bachelors degree"
+224.0,30.0,"Asian","Female","Bachelors degree"
+225.0,57.0,"Asian","Male","Bachelors degree"
+226.0,68.0,"Asian","Female","Bachelors degree"
+227.0,68.0,"Asian","Male","Bachelors degree"
+228.0,36.0,"Asian","Female","Bachelors degree"
+229.0,42.0,"Asian","Male","Bachelors degree"
+230.0,56.0,"Asian","Female","Bachelors degree"
+231.0,70.0,"Asian","Male","Bachelors degree"
+232.0,41.0,"Asian","Female","Bachelors degree"
+233.0,53.0,"Asian","Male","Bachelors degree"
+234.0,61.0,"Asian","Female","Bachelors degree"
+235.0,51.0,"Asian","Male","Bachelors degree"
+236.0,55.0,"Black or African-American","Female","More than Bachelors degree"
+237.0,61.0,"Black or African-American","Male","Bachelors degree"
+238.0,55.0,"Black or African-American","Female","More than Bachelors degree"
+239.0,25.0,"Black or African-American","Male","Bachelors degree"
+240.0,58.0,"Black or African-American","Female","More than Bachelors degree"
+241.0,39.0,"Black or African-American","Male","More than Bachelors degree"
+242.0,38.0,"Black or African-American","Female","Bachelors degree"
+243.0,37.0,"Black or African-American","Male","Bachelors degree"
+244.0,35.0,"Black or African-American","Female","Bachelors degree"
+245.0,48.0,"Black or African-American","Male","Bachelors degree"
+246.0,71.0,"Black or African-American","Female","Bachelors degree"
+247.0,28.0,"Black or African-American","Male","Bachelors degree"
+248.0,39.0,"Black or African-American","Female","Bachelors degree"
+249.0,41.0,"Black or African-American","Male","Bachelors degree"
+250.0,29.0,"Black or African-American","Female","Bachelors degree"
+251.0,25.0,"Black or African-American","Male","Less than Bachelors degree"
+252.0,23.0,"Black or African-American","Female","Less than Bachelors degree"
+253.0,61.0,"Black or African-American","Male","Less than Bachelors degree"
+254.0,24.0,"Black or African-American","Female","Bachelors degree"
+255.0,66.0,"Black or African-American","Male","Bachelors degree"
+256.0,62.0,"Black or African-American","Female","Bachelors degree"
+257.0,33.0,"Black or African-American","Male","Bachelors degree"
+258.0,48.0,"Black or African-American","Female","Bachelors degree"
+259.0,58.0,"Black or African-American","Male","Bachelors degree"
+260.0,31.0,"Black or African-American","Female","Bachelors degree"
+261.0,55.0,"Black or African-American","Male","Bachelors degree"
+262.0,44.0,"Black or African-American","Female","Bachelors degree"
+263.0,35.0,"Black or African-American","Male","Bachelors degree"
+264.0,60.0,"Black or African-American","Female","Bachelors degree"
+265.0,68.0,"Black or African-American","Male","Bachelors degree"
+266.0,30.0,"Black or African-American","Female","Bachelors degree"
+267.0,33.0,"Black or African-American","Male","Bachelors degree"
+268.0,23.0,"Black or African-American","Female","Bachelors degree"
+269.0,67.0,"Black or African-American","Male","Bachelors degree"
+270.0,32.0,"Black or African-American","Female","Bachelors degree"
+271.0,26.0,"Black or African-American","Male","Bachelors degree"
+272.0,52.0,"Black or African-American","Female","Bachelors degree"
+273.0,48.0,"Black or African-American","Male","Bachelors degree"
+274.0,27.0,"Black or African-American","Female","Bachelors degree"
+275.0,34.0,"Black or African-American","Male","Bachelors degree"
+276.0,38.0,"Black or African-American","Female","Bachelors degree"
+277.0,37.0,"Black or African-American","Male","Bachelors degree"
+278.0,41.0,"Black or African-American","Female","Bachelors degree"
+279.0,51.0,"Black or African-American","Male","Bachelors degree"
+280.0,44.0,"Black or African-American","Female","Bachelors degree"
+281.0,31.0,"Black or African-American","Male","Bachelors degree"
+282.0,42.0,"Black or African-American","Female","Bachelors degree"
+283.0,56.0,"Black or African-American","Male","Bachelors degree"
+284.0,53.0,"Black or African-American","Female","Bachelors degree"
+285.0,30.0,"Black or African-American","Male","Bachelors degree"
+286.0,63.0,"Black or African-American","Female","Bachelors degree"
+287.0,67.0,"Black or African-American","Male","Bachelors degree"
+288.0,27.0,"Black or African-American","Female","Bachelors degree"
+289.0,68.0,"Black or African-American","Male","Bachelors degree"
+290.0,41.0,"Black or African-American","Female","Bachelors degree"
+291.0,70.0,"Black or African-American","Male","Bachelors degree"
+292.0,59.0,"Black or African-American","Female","Bachelors degree"
+293.0,39.0,"Black or African-American","Male","Bachelors degree"
+294.0,36.0,"Black or African-American","Female","Bachelors degree"
+295.0,24.0,"Black or African-American","Male","Bachelors degree"
+296.0,48.0,"Black or African-American","Female","Bachelors degree"
+297.0,32.0,"Black or African-American","Male","Bachelors degree"
+298.0,27.0,"Black or African-American","Female","Bachelors degree"
+299.0,40.0,"Black or African-American","Male","Bachelors degree"
+300.0,35.0,"Black or African-American","Female","Bachelors degree"
+301.0,64.0,"Black or African-American","Male","Bachelors degree"
+302.0,59.0,"Black or African-American","Female","Bachelors degree"
+303.0,35.0,"Black or African-American","Male","Bachelors degree"
+304.0,39.0,"Black or African-American","Female","Bachelors degree"
+305.0,57.0,"Black or African-American","Male","Bachelors degree"
+306.0,32.0,"Black or African-American","Female","Bachelors degree"
+307.0,67.0,"Black or African-American","Male","Bachelors degree"
+308.0,69.0,"Black or African-American","Female","Bachelors degree"
+309.0,54.0,"Black or African-American","Male","Bachelors degree"
+310.0,69.0,"Black or African-American","Female","Bachelors degree"
+311.0,50.0,"Black or African-American","Male","More than Bachelors degree"
+312.0,71.0,"Black or African-American","Female","More than Bachelors degree"
+313.0,55.0,"Black or African-American","Male","More than Bachelors degree"
+314.0,46.0,"Black or African-American","Female","More than Bachelors degree"
+315.0,66.0,"Black or African-American","Male","More than Bachelors degree"
+316.0,69.0,"Black or African-American","Female","Bachelors degree"
+317.0,47.0,"Black or African-American","Male","Bachelors degree"
+318.0,24.0,"Black or African-American","Female","Bachelors degree"
+319.0,64.0,"Black or African-American","Male","Bachelors degree"
+320.0,25.0,"Black or African-American","Female","Bachelors degree"
+321.0,54.0,"Black or African-American","Male","Bachelors degree"
+322.0,67.0,"Black or African-American","Female","Bachelors degree"
+323.0,58.0,"Black or African-American","Male","Bachelors degree"
+324.0,66.0,"Black or African-American","Female","Less than Bachelors degree"
+325.0,71.0,"Black or African-American","Male","Less than Bachelors degree"
+326.0,70.0,"Black or African-American","Female","Less than Bachelors degree"
+327.0,34.0,"Black or African-American","Male","Less than Bachelors degree"
+328.0,35.0,"Black or African-American","Female","Less than Bachelors degree"
+329.0,44.0,"Black or African-American","Male","Less than Bachelors degree"
+330.0,64.0,"Hawaiian or Pacific Islander","Female","Bachelors degree"
+331.0,57.0,"Hawaiian or Pacific Islander","Male","Bachelors degree"
+332.0,54.0,"Hawaiian or Pacific Islander","Female","Bachelors degree"
+333.0,35.0,"Hawaiian or Pacific Islander","Male","Bachelors degree"
+334.0,70.0,"Hawaiian or Pacific Islander","Female","Bachelors degree"
+335.0,33.0,"Hawaiian or Pacific Islander","Male","Bachelors degree"
+336.0,62.0,"Hawaiian or Pacific Islander","Female","Bachelors degree"
+337.0,69.0,"Hawaiian or Pacific Islander","Male","Bachelors degree"
+338.0,51.0,"Hawaiian or Pacific Islander","Female","Bachelors degree"
+339.0,30.0,"Hawaiian or Pacific Islander","Male","Bachelors degree"
+340.0,54.0,"Hawaiian or Pacific Islander","Female","Bachelors degree"
+341.0,51.0,"Hawaiian or Pacific Islander","Male","Bachelors degree"
+342.0,55.0,"Hawaiian or Pacific Islander","Female","Bachelors degree"
+343.0,47.0,"Hawaiian or Pacific Islander","Male","Bachelors degree"
+344.0,32.0,"Hawaiian or Pacific Islander","Female","Bachelors degree"
+345.0,61.0,"Hawaiian or Pacific Islander","Male","Bachelors degree"
+346.0,56.0,"Hawaiian or Pacific Islander","Female","Bachelors degree"
+347.0,64.0,"Hawaiian or Pacific Islander","Nonbinary","Bachelors degree"
+348.0,72.0,"Hawaiian or Pacific Islander","Nonbinary","Bachelors degree"
+349.0,55.0,"Hawaiian or Pacific Islander","Male","Bachelors degree"
+350.0,70.0,"Hawaiian or Pacific Islander","Female","Less than Bachelors degree"
+351.0,35.0,"Hawaiian or Pacific Islander","Male","Less than Bachelors degree"
+352.0,36.0,"Hawaiian or Pacific Islander","Female","Less than Bachelors degree"
+353.0,64.0,"Hawaiian or Pacific Islander","Male","Less than Bachelors degree"
+354.0,45.0,"Hawaiian or Pacific Islander","Female","Bachelors degree"
+355.0,30.0,"Hawaiian or Pacific Islander","Male","Bachelors degree"
+356.0,49.0,"Hawaiian or Pacific Islander","Female","Bachelors degree"
+357.0,31.0,"Hawaiian or Pacific Islander","Male","Bachelors degree"
+358.0,36.0,"Hawaiian or Pacific Islander","Female","Bachelors degree"
+359.0,69.0,"Hawaiian or Pacific Islander","Male","Bachelors degree"
+360.0,65.0,"Hawaiian or Pacific Islander","Female","Bachelors degree"
+361.0,22.0,"Hawaiian or Pacific Islander","Male","Bachelors degree"
+362.0,69.0,"Hawaiian or Pacific Islander","Female","Bachelors degree"
+363.0,65.0,"Hawaiian or Pacific Islander","Male","Bachelors degree"
+364.0,34.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+365.0,27.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+366.0,66.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+367.0,47.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+368.0,37.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+369.0,46.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+370.0,55.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+371.0,63.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+372.0,60.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+373.0,61.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+374.0,41.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+375.0,27.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+376.0,56.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+377.0,23.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+378.0,62.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+379.0,44.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+380.0,45.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+381.0,59.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+382.0,35.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+383.0,53.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+384.0,71.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+385.0,44.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+386.0,63.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+387.0,68.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+388.0,46.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+389.0,53.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+390.0,62.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+391.0,34.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+392.0,61.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+393.0,50.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+394.0,70.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+395.0,53.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+396.0,26.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+397.0,36.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+398.0,49.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+399.0,33.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+400.0,39.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+401.0,39.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+402.0,40.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+403.0,44.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+404.0,57.0,"Hispanic, Latino or Spanish origin","Unspecified","Bachelors degree"
+405.0,28.0,"Hispanic, Latino or Spanish origin","Unspecified","Bachelors degree"
+406.0,57.0,"Hispanic, Latino or Spanish origin","Unspecified","Bachelors degree"
+407.0,55.0,"Hispanic, Latino or Spanish origin","Unspecified","Bachelors degree"
+408.0,34.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+409.0,64.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+410.0,40.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+411.0,24.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+412.0,48.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+413.0,45.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+414.0,51.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+415.0,44.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+416.0,44.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+417.0,34.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+418.0,51.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+419.0,51.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+420.0,34.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+421.0,27.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+422.0,34.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+423.0,34.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+424.0,62.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+425.0,32.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+426.0,38.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+427.0,41.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+428.0,42.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+429.0,57.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+430.0,23.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+431.0,69.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+432.0,54.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+433.0,30.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+434.0,31.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+435.0,57.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+436.0,55.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+437.0,50.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+438.0,38.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+439.0,54.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+440.0,40.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+441.0,35.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+442.0,31.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+443.0,48.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+444.0,54.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+445.0,63.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+446.0,24.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+447.0,61.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+448.0,50.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+449.0,38.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+450.0,72.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+451.0,60.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+452.0,38.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+453.0,29.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+454.0,59.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+455.0,40.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+456.0,70.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+457.0,60.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+458.0,40.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+459.0,62.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+460.0,32.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+461.0,50.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+462.0,61.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+463.0,54.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+464.0,32.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+465.0,45.0,"Hispanic, Latino or Spanish origin","Male","Less than Bachelors degree"
+466.0,57.0,"Hispanic, Latino or Spanish origin","Female","Less than Bachelors degree"
+467.0,63.0,"Hispanic, Latino or Spanish origin","Male","Less than Bachelors degree"
+468.0,41.0,"Hispanic, Latino or Spanish origin","Female","Less than Bachelors degree"
+469.0,25.0,"Hispanic, Latino or Spanish origin","Male","Less than Bachelors degree"
+470.0,57.0,"Hispanic, Latino or Spanish origin","Female","Less than Bachelors degree"
+471.0,58.0,"Hispanic, Latino or Spanish origin","Male","Less than Bachelors degree"
+472.0,53.0,"Hispanic, Latino or Spanish origin","Female","Less than Bachelors degree"
+473.0,24.0,"Hispanic, Latino or Spanish origin","Male","Less than Bachelors degree"
+474.0,72.0,"Hispanic, Latino or Spanish origin","Female","Less than Bachelors degree"
+475.0,46.0,"Hispanic, Latino or Spanish origin","Male","Less than Bachelors degree"
+476.0,62.0,"Hispanic, Latino or Spanish origin","Female","Less than Bachelors degree"
+477.0,65.0,"Hispanic, Latino or Spanish origin","Male","Less than Bachelors degree"
+478.0,34.0,"Hispanic, Latino or Spanish origin","Female","Less than Bachelors degree"
+479.0,68.0,"Hispanic, Latino or Spanish origin","Male","Less than Bachelors degree"
+480.0,56.0,"Hispanic, Latino or Spanish origin","Female","Less than Bachelors degree"
+481.0,70.0,"Hispanic, Latino or Spanish origin","Male","Less than Bachelors degree"
+482.0,24.0,"Hispanic, Latino or Spanish origin","Female","Less than Bachelors degree"
+483.0,72.0,"Hispanic, Latino or Spanish origin","Male","Less than Bachelors degree"
+484.0,64.0,"Hispanic, Latino or Spanish origin","Female","Less than Bachelors degree"
+485.0,51.0,"Hispanic, Latino or Spanish origin","Male","Less than Bachelors degree"
+486.0,59.0,"Hispanic, Latino or Spanish origin","Female","Less than Bachelors degree"
+487.0,60.0,"Hispanic, Latino or Spanish origin","Male","Less than Bachelors degree"
+488.0,50.0,"Hispanic, Latino or Spanish origin","Female","More than Bachelors degree"
+489.0,42.0,"Hispanic, Latino or Spanish origin","Male","More than Bachelors degree"
+490.0,58.0,"Hispanic, Latino or Spanish origin","Female","More than Bachelors degree"
+491.0,57.0,"Hispanic, Latino or Spanish origin","Male","More than Bachelors degree"
+492.0,26.0,"Hispanic, Latino or Spanish origin","Female","More than Bachelors degree"
+493.0,65.0,"Hispanic, Latino or Spanish origin","Male","More than Bachelors degree"
+494.0,23.0,"Hispanic, Latino or Spanish origin","Female","More than Bachelors degree"
+495.0,28.0,"Hispanic, Latino or Spanish origin","Male","More than Bachelors degree"
+496.0,71.0,"Hispanic, Latino or Spanish origin","Female","More than Bachelors degree"
+497.0,22.0,"Hispanic, Latino or Spanish origin","Male","More than Bachelors degree"
+498.0,27.0,"Hispanic, Latino or Spanish origin","Female","More than Bachelors degree"
+499.0,39.0,"Hispanic, Latino or Spanish origin","Male","More than Bachelors degree"
+500.0,44.0,"Hispanic, Latino or Spanish origin","Female","More than Bachelors degree"
+501.0,24.0,"Hispanic, Latino or Spanish origin","Male","More than Bachelors degree"
+502.0,61.0,"Hispanic, Latino or Spanish origin","Female","More than Bachelors degree"
+503.0,63.0,"Hispanic, Latino or Spanish origin","Male","More than Bachelors degree"
+504.0,45.0,"Hispanic, Latino or Spanish origin","Female","More than Bachelors degree"
+505.0,61.0,"Hispanic, Latino or Spanish origin","Male","More than Bachelors degree"
+506.0,44.0,"Hispanic, Latino or Spanish origin","Female","More than Bachelors degree"
+507.0,71.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+508.0,72.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+509.0,67.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+510.0,36.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+511.0,38.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+512.0,55.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+513.0,52.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+514.0,59.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+515.0,36.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+516.0,24.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+517.0,48.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+518.0,57.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+519.0,32.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+520.0,61.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+521.0,47.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+522.0,68.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+523.0,35.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+524.0,39.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+525.0,25.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+526.0,52.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+527.0,54.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+528.0,41.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+529.0,47.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+530.0,38.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+531.0,24.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+532.0,44.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+533.0,67.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+534.0,28.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+535.0,47.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+536.0,39.0,"Hispanic, Latino or Spanish origin","Female","Bachelors degree"
+537.0,41.0,"Hispanic, Latino or Spanish origin","Male","Bachelors degree"
+538.0,41.0,"White, not Hispanic or Latino","Female","Less than Bachelors degree"
+539.0,33.0,"White, not Hispanic or Latino","Male","Less than Bachelors degree"
+540.0,63.0,"White, not Hispanic or Latino","Female","Less than Bachelors degree"
+541.0,66.0,"White, not Hispanic or Latino","Male","Less than Bachelors degree"
+542.0,32.0,"White, not Hispanic or Latino","Female","Less than Bachelors degree"
+543.0,68.0,"White, not Hispanic or Latino","Male","Less than Bachelors degree"
+544.0,36.0,"White, not Hispanic or Latino","Female","Less than Bachelors degree"
+545.0,28.0,"White, not Hispanic or Latino","Male","Less than Bachelors degree"
+546.0,53.0,"White, not Hispanic or Latino","Female","Less than Bachelors degree"
+547.0,51.0,"White, not Hispanic or Latino","Male","Less than Bachelors degree"
+548.0,53.0,"White, not Hispanic or Latino","Female","Less than Bachelors degree"
+549.0,50.0,"White, not Hispanic or Latino","Male","Less than Bachelors degree"
+550.0,55.0,"White, not Hispanic or Latino","Female","Less than Bachelors degree"
+551.0,22.0,"White, not Hispanic or Latino","Male","Less than Bachelors degree"
+552.0,27.0,"White, not Hispanic or Latino","Female","Less than Bachelors degree"
+553.0,58.0,"White, not Hispanic or Latino","Male","Less than Bachelors degree"
+554.0,32.0,"White, not Hispanic or Latino","Female","Less than Bachelors degree"
+555.0,45.0,"White, not Hispanic or Latino","Male","Less than Bachelors degree"
+556.0,29.0,"White, not Hispanic or Latino","Female","Less than Bachelors degree"
+557.0,35.0,"White, not Hispanic or Latino","Male","Less than Bachelors degree"
+558.0,71.0,"White, not Hispanic or Latino","Female","Less than Bachelors degree"
+559.0,52.0,"White, not Hispanic or Latino","Male","Less than Bachelors degree"
+560.0,43.0,"White, not Hispanic or Latino","Female","Less than Bachelors degree"
+561.0,42.0,"White, not Hispanic or Latino","Male","Less than Bachelors degree"
+562.0,72.0,"White, not Hispanic or Latino","Female","Less than Bachelors degree"
+563.0,38.0,"White, not Hispanic or Latino","Male","Less than Bachelors degree"
+564.0,61.0,"White, not Hispanic or Latino","Unspecified","Less than Bachelors degree"
+565.0,61.0,"White, not Hispanic or Latino","Unspecified","Less than Bachelors degree"
+566.0,35.0,"White, not Hispanic or Latino","Unspecified","Less than Bachelors degree"
+567.0,58.0,"White, not Hispanic or Latino","Unspecified","Less than Bachelors degree"
+568.0,67.0,"White, not Hispanic or Latino","Female","Less than Bachelors degree"
+569.0,63.0,"White, not Hispanic or Latino","Unspecified","Less than Bachelors degree"
+570.0,37.0,"White, not Hispanic or Latino","Female","Less than Bachelors degree"
+571.0,55.0,"White, not Hispanic or Latino","Male","Less than Bachelors degree"
+572.0,46.0,"White, not Hispanic or Latino","Female","Less than Bachelors degree"
+573.0,71.0,"White, not Hispanic or Latino","Male","Less than Bachelors degree"
+574.0,57.0,"White, not Hispanic or Latino","Female","Less than Bachelors degree"
+575.0,44.0,"White, not Hispanic or Latino","Male","Less than Bachelors degree"
+576.0,63.0,"White, not Hispanic or Latino","Female","Less than Bachelors degree"
+577.0,44.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+578.0,50.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+579.0,58.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+580.0,53.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+581.0,34.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+582.0,32.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+583.0,43.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+584.0,43.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+585.0,39.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+586.0,60.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+587.0,61.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+588.0,34.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+589.0,33.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+590.0,43.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+591.0,60.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+592.0,62.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+593.0,34.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+594.0,70.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+595.0,47.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+596.0,42.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+597.0,59.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+598.0,30.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+599.0,50.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+600.0,44.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+601.0,28.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+602.0,27.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+603.0,33.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+604.0,71.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+605.0,50.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+606.0,65.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+607.0,33.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+608.0,62.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+609.0,34.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+610.0,64.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+611.0,49.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+612.0,31.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+613.0,57.0,"White, not Hispanic or Latino","Nonbinary","More than Bachelors degree"
+614.0,58.0,"White, not Hispanic or Latino","Nonbinary","More than Bachelors degree"
+615.0,72.0,"White, not Hispanic or Latino","Nonbinary","More than Bachelors degree"
+616.0,23.0,"White, not Hispanic or Latino","Nonbinary","More than Bachelors degree"
+617.0,69.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+618.0,69.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+619.0,22.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+620.0,58.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+621.0,27.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+622.0,56.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+623.0,46.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+624.0,43.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+625.0,67.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+626.0,71.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+627.0,58.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+628.0,22.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+629.0,71.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+630.0,30.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+631.0,48.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+632.0,68.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+633.0,52.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+634.0,24.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+635.0,68.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+636.0,44.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+637.0,31.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+638.0,41.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+639.0,28.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+640.0,31.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+641.0,23.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+642.0,40.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+643.0,32.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+644.0,31.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+645.0,51.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+646.0,60.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+647.0,45.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+648.0,28.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+649.0,28.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+650.0,69.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+651.0,51.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+652.0,72.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+653.0,25.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+654.0,51.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+655.0,43.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+656.0,31.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+657.0,37.0,"White, not Hispanic or Latino","Male","More than Bachelors degree"
+658.0,52.0,"White, not Hispanic or Latino","Female","More than Bachelors degree"
+659.0,63.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+660.0,43.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+661.0,45.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+662.0,23.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+663.0,65.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+664.0,57.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+665.0,32.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+666.0,69.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+667.0,56.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+668.0,71.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+669.0,27.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+670.0,22.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+671.0,58.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+672.0,58.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+673.0,42.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+674.0,40.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+675.0,64.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+676.0,34.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+677.0,40.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+678.0,62.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+679.0,60.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+680.0,45.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+681.0,58.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+682.0,51.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+683.0,68.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+684.0,34.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+685.0,37.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+686.0,27.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+687.0,34.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+688.0,61.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+689.0,41.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+690.0,38.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+691.0,56.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+692.0,29.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+693.0,57.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+694.0,31.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+695.0,31.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+696.0,26.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+697.0,44.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+698.0,57.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+699.0,37.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+700.0,42.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+701.0,65.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+702.0,26.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+703.0,63.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+704.0,43.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+705.0,55.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+706.0,72.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+707.0,40.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+708.0,72.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+709.0,54.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+710.0,31.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+711.0,32.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+712.0,30.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+713.0,25.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+714.0,51.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+715.0,25.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+716.0,65.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+717.0,40.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+718.0,57.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+719.0,61.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+720.0,24.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+721.0,31.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+722.0,24.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+723.0,53.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+724.0,36.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+725.0,66.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+726.0,44.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+727.0,46.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+728.0,54.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+729.0,31.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+730.0,25.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+731.0,66.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+732.0,55.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+733.0,24.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+734.0,46.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+735.0,25.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+736.0,50.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+737.0,44.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+738.0,49.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+739.0,58.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+740.0,49.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+741.0,68.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+742.0,40.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+743.0,28.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+744.0,22.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+745.0,55.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+746.0,57.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+747.0,59.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+748.0,37.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+749.0,50.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+750.0,57.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+751.0,37.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+752.0,43.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+753.0,38.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+754.0,57.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+755.0,31.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+756.0,55.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+757.0,23.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+758.0,56.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+759.0,25.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+760.0,28.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+761.0,72.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+762.0,50.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+763.0,33.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+764.0,24.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+765.0,57.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+766.0,58.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+767.0,24.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+768.0,53.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+769.0,69.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+770.0,51.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+771.0,25.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+772.0,36.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+773.0,49.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+774.0,32.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+775.0,50.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+776.0,58.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+777.0,71.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+778.0,46.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+779.0,40.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+780.0,31.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+781.0,64.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+782.0,29.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+783.0,31.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+784.0,50.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+785.0,49.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+786.0,32.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+787.0,28.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+788.0,32.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+789.0,63.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+790.0,22.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+791.0,33.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+792.0,43.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+793.0,48.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+794.0,59.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+795.0,62.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+796.0,23.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+797.0,40.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+798.0,40.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+799.0,41.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+800.0,58.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+801.0,24.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+802.0,54.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+803.0,49.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+804.0,64.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+805.0,64.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+806.0,67.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+807.0,38.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+808.0,55.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+809.0,50.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+810.0,28.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+811.0,54.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+812.0,50.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+813.0,54.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+814.0,63.0,"White, not Hispanic or Latino","Female","Bachelors degree"
+815.0,56.0,"White, not Hispanic or Latino","Male","Bachelors degree"
+816.0,42.0,"Selected more than 1 race","Female","Bachelors degree"
+817.0,61.0,"Selected more than 1 race","Male","Bachelors degree"
+818.0,53.0,"Selected more than 1 race","Female","Bachelors degree"
+819.0,53.0,"Selected more than 1 race","Male","Bachelors degree"
+820.0,49.0,"Selected more than 1 race","Female","Bachelors degree"
+821.0,30.0,"Selected more than 1 race","Male","Bachelors degree"
+822.0,27.0,"Selected more than 1 race","Female","Bachelors degree"
+823.0,52.0,"Selected more than 1 race","Male","Bachelors degree"
+824.0,66.0,"Selected more than 1 race","Female","Bachelors degree"
+825.0,36.0,"Selected more than 1 race","Male","Bachelors degree"
+826.0,54.0,"Selected more than 1 race","Female","Bachelors degree"
+827.0,54.0,"Selected more than 1 race","Male","Bachelors degree"
+828.0,27.0,"Selected more than 1 race","Female","Bachelors degree"
+829.0,72.0,"Selected more than 1 race","Nonbinary","Bachelors degree"
+830.0,56.0,"Selected more than 1 race","Female","Bachelors degree"
+831.0,31.0,"Selected more than 1 race","Nonbinary","Bachelors degree"
+832.0,30.0,"Selected more than 1 race","Female","Bachelors degree"
+833.0,70.0,"Selected more than 1 race","Male","Bachelors degree"
+834.0,70.0,"Selected more than 1 race","Female","Bachelors degree"
+835.0,72.0,"Selected more than 1 race","Male","Bachelors degree"
+836.0,35.0,"Selected more than 1 race","Female","Bachelors degree"
+837.0,53.0,"Selected more than 1 race","Male","Bachelors degree"
+838.0,56.0,"Selected more than 1 race","Female","Bachelors degree"
+839.0,32.0,"Selected more than 1 race","Male","Bachelors degree"
+840.0,59.0,"Selected more than 1 race","Female","Bachelors degree"
+841.0,41.0,"Selected more than 1 race","Male","Bachelors degree"
+842.0,45.0,"Selected more than 1 race","Female","Bachelors degree"
+843.0,24.0,"Selected more than 1 race","Male","Bachelors degree"
+844.0,44.0,"Selected more than 1 race","Female","Bachelors degree"
+845.0,37.0,"Selected more than 1 race","Male","Bachelors degree"
+846.0,43.0,"Selected more than 1 race","Female","Bachelors degree"
+847.0,71.0,"Selected more than 1 race","Male","Bachelors degree"
+848.0,41.0,"Selected more than 1 race","Female","Bachelors degree"
+849.0,32.0,"Selected more than 1 race","Male","Bachelors degree"
+850.0,50.0,"Selected more than 1 race","Female","Bachelors degree"
+851.0,62.0,"Selected more than 1 race","Male","Bachelors degree"
+852.0,65.0,"Selected more than 1 race","Female","Bachelors degree"
+853.0,43.0,"Selected more than 1 race","Male","Bachelors degree"
+854.0,56.0,"Selected more than 1 race","Female","Bachelors degree"
+855.0,37.0,"Selected more than 1 race","Male","Bachelors degree"
+856.0,60.0,"Selected more than 1 race","Female","Bachelors degree"
+857.0,54.0,"Selected more than 1 race","Male","Bachelors degree"
+858.0,49.0,"Selected more than 1 race","Female","Bachelors degree"
+859.0,59.0,"Selected more than 1 race","Male","Bachelors degree"
+860.0,24.0,"Selected more than 1 race","Female","Bachelors degree"
+861.0,54.0,"Selected more than 1 race","Male","Bachelors degree"
+862.0,47.0,"Selected more than 1 race","Female","Bachelors degree"
+863.0,66.0,"Selected more than 1 race","Male","Less than Bachelors degree"
+864.0,39.0,"Selected more than 1 race","Female","Less than Bachelors degree"
+865.0,69.0,"Selected more than 1 race","Male","Less than Bachelors degree"
+866.0,43.0,"Selected more than 1 race","Female","Less than Bachelors degree"
+867.0,34.0,"Selected more than 1 race","Male","Less than Bachelors degree"
+868.0,56.0,"Selected more than 1 race","Female","Less than Bachelors degree"
+869.0,65.0,"Selected more than 1 race","Male","Less than Bachelors degree"
+870.0,34.0,"Selected more than 1 race","Female","Less than Bachelors degree"
+871.0,53.0,"Selected more than 1 race","Male","Less than Bachelors degree"
+872.0,52.0,"Selected more than 1 race","Female","Less than Bachelors degree"
+873.0,46.0,"Selected more than 1 race","Male","Less than Bachelors degree"
+874.0,44.0,"Selected more than 1 race","Female","Less than Bachelors degree"
+875.0,72.0,"Selected more than 1 race","Male","Less than Bachelors degree"
+876.0,56.0,"Selected more than 1 race","Female","Less than Bachelors degree"
+877.0,44.0,"Selected more than 1 race","Male","More than Bachelors degree"
+878.0,30.0,"Selected more than 1 race","Female","More than Bachelors degree"
+879.0,54.0,"Selected more than 1 race","Male","More than Bachelors degree"
+880.0,62.0,"Selected more than 1 race","Female","More than Bachelors degree"
+881.0,57.0,"Selected more than 1 race","Male","More than Bachelors degree"
+882.0,66.0,"Selected more than 1 race","Female","More than Bachelors degree"
+883.0,44.0,"Selected more than 1 race","Male","More than Bachelors degree"
+884.0,25.0,"Selected more than 1 race","Female","More than Bachelors degree"
+885.0,53.0,"Selected more than 1 race","Male","More than Bachelors degree"
+886.0,44.0,"Selected more than 1 race","Female","More than Bachelors degree"
+887.0,68.0,"Selected more than 1 race","Male","More than Bachelors degree"
+888.0,27.0,"Selected more than 1 race","Female","More than Bachelors degree"
+889.0,71.0,"Selected more than 1 race","Male","More than Bachelors degree"
+890.0,69.0,"Selected more than 1 race","Female","More than Bachelors degree"
+891.0,53.0,"Selected more than 1 race","Male","More than Bachelors degree"
+892.0,35.0,"Selected more than 1 race","Female","More than Bachelors degree"
+893.0,57.0,"Selected more than 1 race","Male","More than Bachelors degree"
+894.0,39.0,"Selected more than 1 race","Female","More than Bachelors degree"
+895.0,72.0,"Selected more than 1 race","Male","Bachelors degree"
+896.0,59.0,"Selected more than 1 race","Female","Bachelors degree"
+897.0,40.0,"Selected more than 1 race","Male","Bachelors degree"
+898.0,23.0,"Selected more than 1 race","Female","Bachelors degree"
+899.0,39.0,"Selected more than 1 race","Male","Bachelors degree"
+900.0,67.0,"Selected more than 1 race","Female","Bachelors degree"
+901.0,50.0,"Selected more than 1 race","Male","Bachelors degree"
+902.0,24.0,"Selected more than 1 race","Female","Bachelors degree"
+903.0,32.0,"Selected more than 1 race","Male","Bachelors degree"
+904.0,70.0,"Selected more than 1 race","Female","Bachelors degree"
+905.0,59.0,"Selected more than 1 race","Male","Bachelors degree"
+906.0,56.0,"Selected more than 1 race","Female","Bachelors degree"
+907.0,61.0,"Selected more than 1 race","Male","Bachelors degree"
+908.0,71.0,"Selected more than 1 race","Female","Bachelors degree"
+909.0,62.0,"Selected more than 1 race","Male","Bachelors degree"
+910.0,47.0,"Selected more than 1 race","Female","Bachelors degree"
+911.0,24.0,"Selected more than 1 race","Male","Bachelors degree"
+912.0,55.0,"Selected more than 1 race","Female","Bachelors degree"
+913.0,53.0,"Selected more than 1 race","Male","Bachelors degree"
+914.0,60.0,"Selected more than 1 race","Female","Bachelors degree"
+915.0,22.0,"Selected more than 1 race","Male","Bachelors degree"
+916.0,31.0,"Selected more than 1 race","Female","Bachelors degree"
+917.0,30.0,"Selected more than 1 race","Male","Bachelors degree"
+918.0,27.0,"Selected more than 1 race","Female","Bachelors degree"
+919.0,87.0,"Selected more than 1 race","Male","Bachelors degree"
+920.0,74.0,"Selected more than 1 race","Female","Bachelors degree"
+921.0,36.0,"Selected more than 1 race","Male","Bachelors degree"
+922.0,75.0,"Selected more than 1 race","Female","Bachelors degree"
+923.0,24.0,"Selected more than 1 race","Male","Bachelors degree"
+924.0,62.0,"Selected more than 1 race","Female","Bachelors degree"
+925.0,38.0,"Selected more than 1 race","Male","Bachelors degree"
+926.0,79.0,"Selected more than 1 race","Female","Bachelors degree"
+927.0,58.0,"Selected more than 1 race","Male","Bachelors degree"
+928.0,42.0,"Selected more than 1 race","Female","Bachelors degree"
+929.0,25.0,"Selected more than 1 race","Male","Bachelors degree"
+930.0,47.0,"Selected more than 1 race","Female","Bachelors degree"
+931.0,34.0,"Selected more than 1 race","Male","Bachelors degree"
+932.0,54.0,"Selected more than 1 race","Female","Bachelors degree"
+933.0,29.0,"Selected more than 1 race","Male","Bachelors degree"
+934.0,28.0,"Selected more than 1 race","Female","Bachelors degree"
+935.0,23.0,"Selected more than 1 race","Male","Bachelors degree"
+936.0,39.0,"Selected more than 1 race","Female","Bachelors degree"
+937.0,90.0,"Selected more than 1 race","Male","Bachelors degree"
+938.0,45.0,"Selected more than 1 race","Female","Bachelors degree"
+939.0,31.0,"Selected more than 1 race","Male","Bachelors degree"
+940.0,35.0,"Selected more than 1 race","Female","Bachelors degree"
+941.0,33.0,"Selected more than 1 race","Male","Bachelors degree"
+942.0,33.0,"Selected more than 1 race","Female","Bachelors degree"
+943.0,49.0,"Selected more than 1 race","Unspecified","More than Bachelors degree"
+944.0,60.0,"Selected more than 1 race","Unspecified","More than Bachelors degree"
+945.0,89.0,"Selected more than 1 race","Unspecified","More than Bachelors degree"
+946.0,85.0,"Selected more than 1 race","Unspecified","More than Bachelors degree"
+947.0,81.0,"Selected more than 1 race","Unspecified","Bachelors degree"
+948.0,75.0,"Selected more than 1 race","Unspecified","Bachelors degree"
+949.0,46.0,"Selected more than 1 race","Nonbinary","Less than Bachelors degree"
+950.0,62.0,"Selected more than 1 race","Nonbinary","Bachelors degree"
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

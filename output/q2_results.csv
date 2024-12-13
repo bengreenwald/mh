@@ -1,0 +1,2 @@
+estimate,estimate1,estimate2,statistic,p.value,parameter,conf.low,conf.high,method,alternative,sig
+0.985222,9.98522,9,0.489034,0.625758,113.939,-3.00577,4.97621,Welch Two Sample t-test,two.sided,NA
